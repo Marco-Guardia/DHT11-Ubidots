@@ -1,6 +1,6 @@
 # Sensor DHT11 con ESP32 y Ubidots
 
-**Autor:** Marco Aurelio Guardia Medrano — ID: 000138350
+**Autor:** Marco Aurelio Guardia Medrano
 
 ## Descripción
 
@@ -41,9 +41,6 @@ const char *WIFI_SSID = "TU_SSID_AQUI";
 const char *WIFI_PASS = "TU_PASSWORD_AQUI";
 ```
 
-> ⚠️ **Importante:** nunca subas tu token de Ubidots ni tu contraseña de
-> WiFi reales a un repositorio público. Mantén estos valores solo en tu
-> copia local del archivo.
 
 ## Librerías necesarias (Arduino IDE)
 
